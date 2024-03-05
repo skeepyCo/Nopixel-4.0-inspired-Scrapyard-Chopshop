@@ -34,5 +34,3 @@ Attention! : The instructions must be followed correctly and accurately.
     trunk                        = { name = 'trunk',        label = 'Car Trunk',        weight = 10000,     type = 'item',  image = 'car_trunk.png',     unique = true,      useable = true,     shouldClose = true, combinable = nil, discription = '' },
 
 4.You can throw the pictures in "Inventory Images" into your inventory
-
-Not: If you want to use the npc dialogue you can configure it from skeppy-dialogue config.lua. If you do not want to use it, use the config file in skeppy-chopshop
